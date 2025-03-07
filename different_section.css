@@ -1,0 +1,50 @@
+body{
+    background-color:#052962;
+    color: white;
+    background-attachment: fixed;
+}
+.parent{
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 10px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content-f{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content-f h1{
+    color: aqua;
+    text-align: center;
+}
+.content-f p{
+    color: rgba(255, 252, 252, 0.852);
+    text-align: left;
+}
+
+.content-m{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: larger;
+}
+.content-m h1{
+    color: aqua;
+}
+
+.content-m p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+.footer{
+    margin: 30px;
+    margin-bottom: 2px;
+}
+
+a{
+    color: red;
+}
+.news{
+    text-align: center; font-family: Arial, Helvetica, sans-serif;
+}
